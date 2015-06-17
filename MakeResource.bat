@@ -1,0 +1,1 @@
+BRCC32.exe RoYaEx.rc -foRoYaEx.res
